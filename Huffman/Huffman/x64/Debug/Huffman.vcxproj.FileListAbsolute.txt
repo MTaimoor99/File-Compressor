@@ -1,0 +1,4 @@
+C:\Users\taimo\source\repos\Huffman\Huffman\x64\Debug\Huffman.vcxproj.AssemblyReference.cache
+C:\Users\taimo\source\repos\Huffman\Huffman\x64\Debug\Huffman.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\taimo\source\repos\Huffman\Huffman\x64\Debug\Huffman.MyForm.resources
+C:\Users\taimo\source\repos\Huffman\Huffman\x64\Debug\Huffman.vcxproj.GenerateResource.cache
