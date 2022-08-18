@@ -5,9 +5,9 @@ This is a GUI application that compresses a text file using the Huffman Algorith
 Before downloading this project, make sure you have Visual Studio 2022 downloaded on your system. Also make sure that you have downloaded C++ and .NET Framework workloads in your Visual Studio to run this project.
 
 # How To Install
-1. Download the Huffman file as a zip.
-2. Extract the Huffman folder from the zip file.
-3. Go in Huffman>Huffman.sln in order to run this project on Visual Studio.
+1. Download the repository as a zip file.
+2. Extract the File-Compressor-main folder from the zip file.
+3. Go in File-Compressor-main->Huffman->Huffman.sln in order to run this project on Visual Studio.
 
 # How Does the Project Work
 1. Press the "Run" button on Visual Studio. This will display a GUI.
