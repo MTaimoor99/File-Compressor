@@ -1,5 +1,5 @@
 # File-Compressor
-This is a GUI application that compresses a text file using the Huffman Algorithm. Technologies used are Visual Studio, C++ and the .NET Framework.
+This is a GUI application that compresses and decompresses a text file using the Huffman Algorithm. Technologies used are Visual Studio, C++ and the .NET Framework.
 
 # Note
 Before downloading this project, make sure you have Visual Studio 2022 downloaded on your system. Also make sure that you have downloaded C++ and .NET Framework workloads in your Visual Studio to run this project.
@@ -17,7 +17,7 @@ Before downloading this project, make sure you have Visual Studio 2022 downloade
 5. To decompress the file, type "Compressed.txt" in the search bar, and press the "Decompress" button. This will return a file called "Decompressed.txt" which will contan the contents of the original file.
 6. To use the application again, close it, delete the compressed and decompressed text files, and then run it again to compress or decompress your deisred text file again.
 
-#Warnings
+# Warnings
 1. This application will only work on files having the ".txt" extension.
 2. Make sure your text file is in the project directory.
 3. Make sure to delete the "Compressed.txt" and "Decompressed.txt" text files and closing the application before running it again.
